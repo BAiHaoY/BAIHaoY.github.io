@@ -33,10 +33,10 @@
 
 <body>
 	<div class="tp-content">
-		<a href="https://www.x6d.com/" target="_blank"><img src="img/icon-1.png" />BLOG</a>
-		<a href="https://www.x6d.com/" target="_blank"><img src="img/icon-4.png" />Movies</a>
-		<a href="https://www.x6d.com/" target="_blank"><img src="img/icon-3.png" />Music</a>
-		<a href="https://www.x6d.com/" target="_blank"><img src="img/icon-2.png" />Mail</a>
+		<a href="http://music.zhuolin.wang/" target="_blank"><img src="img/icon-1.png" />Music</a>
+		<a href="https://www.rpg.kim/" target="_blank"><img src="img/icon-4.png" />Game</a>
+		<a href="https://tb.rg-adguard.net/public.php?lang=zh-CN" target="_blank"><img src="img/icon-3.png" />ISO</a>
+		<a href="https://www.imehua.com/" target="_blank"><img src="img/icon-2.png" />Movies</a>
 	</div>
 	<p class="copyright">© 2020 - www.xiaodao.biz</p>
 </body>
